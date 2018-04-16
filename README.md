@@ -1,2 +1,2 @@
-# rust-astudio
+# rustdroid-astudio
 Rust integration into Android Studio
